@@ -74,12 +74,9 @@ A modern sample web application that uses AI to generate professional remodeling
 
 2. Update the `appsettings.json` file with your OpenAI API key and database connection string.
 
-3. Apply database migrations:
-   ```bash
-   dotnet ef migrations add InitialCreate
-   dotnet ef database update
-   ```
-
+3. Create the database objects using `remodeling-proposal-backend/RemodelingProposalSystem.Infrastructure
+/DatabaseSqlScript/tables.sql`.
+   
 4. Start the API:
    ```bash
    dotnet run --project RemodelingProposalSystem.API
