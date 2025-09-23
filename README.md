@@ -1,6 +1,6 @@
-# Landscaping Proposal System
+# Remodeling Proposal System
 
-A modern web application that uses AI to generate professional landscaping proposals with accurate cost estimates, material requirements, and timelines.
+A modern sample web application that uses AI to generate professional remodeling proposals with accurate cost estimates, material requirements, and timelines.
 
 
 ## Application Overview
@@ -74,14 +74,14 @@ A modern web application that uses AI to generate professional landscaping propo
 
 4. Start the API:
    ```bash
-   dotnet run --project LandscapingProposalSystem.API
+   dotnet run --project RemodelingProposalSystem.API
    ```
 
 ## Usage
 
 1. Open your browser and navigate to `http://localhost:3000`
 2. Fill in the property details form
-3. Select the desired landscaping services
+3. Select the desired remodeling services
 4. Review the generated proposal
 5. Save or export the proposal
 
