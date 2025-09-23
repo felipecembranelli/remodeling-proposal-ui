@@ -4,14 +4,22 @@ A modern sample web application that uses AI to generate professional remodeling
 
 
 ## Application Overview
-![alt text](doc/lsp_landing.JPG)
+![alt text](doc/land1.JPG)
 
-![alt text](doc/lsp_prop_detail.JPG)
+![alt text](doc/step1.JPG)
+
+![alt text](doc/step2.JPG)
+
+![alt text](doc/step3.JPG)
+
+![alt text](doc/step4.JPG)
+
+![alt text](doc/proposal1.JPG)
 
 
 ## Architecture Overview
 
-![alt text](doc/lsp_arch_overview.JPG)
+![alt text](doc/arch_overview.JPG)
 
 
 ## Features
