@@ -19,7 +19,7 @@ A modern sample web application that uses AI to generate professional remodeling
 
 ## Architecture Overview
 
-![alt text](doc/arch_overview.JPG)
+![alt text](doc/arch_overview.jpg)
 
 
 ## Features
