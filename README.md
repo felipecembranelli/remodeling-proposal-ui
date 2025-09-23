@@ -67,9 +67,9 @@ A modern sample web application that uses AI to generate professional remodeling
 
 ### Backend
 
-1. Navigate to the backend directory:
+1. Clone the backend repository:
    ```bash
-   cd backend
+   git clone https://github.com/felipecembranelli/remodeling-proposal-backend
    ```
 
 2. Update the `appsettings.json` file with your OpenAI API key and database connection string.
