@@ -2,6 +2,7 @@
 
 A modern sample web application that uses AI to generate professional remodeling proposals with accurate cost estimates, material requirements, and timelines.
 
+Medium article: https://medium.com/@felipecembranelli/transforming-proposal-generation-a-complete-ai-driven-solution-using-c-349619162898
 
 ## Application Overview
 ![alt text](doc/land1.JPG)
